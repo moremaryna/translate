@@ -1,0 +1,248 @@
+{
+  "dictionary_crops": {
+    "apple": {
+      "growthStages": [
+        "Latente",
+        "Punta de plata",
+        "Punta verde",
+        "0.6 cm verde",
+        "1.3 cm verde",
+        "Clúster estrecho",
+        "Rosado",
+        "Clúster abierto",
+        "Rey flor",
+        "Plena floración",
+        "Caída de pétalos",
+        "Fruta de 8 mm",
+        "Fruta de 10 mm",
+      ],
+      "id": "apple",
+      "name": "Manzana",
+      "subCollection": {}
+    },
+    "cocoa": {
+      "growthStages": [
+        "Alargamiento del tallo principal",
+        "Alargamiento de la rama del ventilador",
+        "Emergencia de la inflorescencia",
+        "Floración",
+        "Desarrollo de frutos",
+        "Maduración de frutos y semillas",
+        "Senectud"
+      ],
+      "name": "Cacao",
+      "id": "cocoa",
+      "subCollection": {}
+    },
+    "coffee": {
+      "growthStages": [
+        "Establecimiento",
+        "Floración",
+        "Fruto verde",
+        "Fruto en maduración",
+        "Fruto maduro"
+      ],
+      "id": "coffee",
+      "name": "Café",
+      "subCollection": {}
+    },
+    "sugar_cane": {
+      "growthStages": [
+        "Aparición",
+        "Macollaje de plantas",
+        "Gran crecimiento",
+        "Madurez"
+      ],
+      "name": "Caña de azúcar",
+      "id": "sugar_cane",
+      "subCollection": {}
+    },
+    "wheat": {
+      "name": "Trigo",
+      "id": "wheat",
+      "growthStages": [
+        "Crecimiento de plántulas",
+        "Macollaje de plantas",
+        "Extensión de tallo",
+        "Arrancando",
+        "Emergencia del oído",
+        "Floración",
+        "Desarrollo de la leche",
+        "Desarrollo de la masa",
+        "Madurez"
+      ],
+      "subCollection": {}
+    },
+    "pepper": {
+      "growthStages": [
+  "Germinación",
+          "Desarrollo de la planta",
+          "Floración",
+          "Fructificación",
+          "Desarrollo del fruto"
+      ],
+      "name": "Pimienta",
+      "id": "pepper",
+      "subCollection": {}
+    },
+    "sunflower": {
+      "growthStages": [
+        "(VE) Emergencia vegetativa",
+        "(V1) Primera etapa vegetativa",
+        "(V2) Segunda etapa vegetativa",
+        "(V3) Tercera etapa vegetativa",
+        "(V4) Cuarta etapa vegetativa",
+        "(R1 - R4) Crecimiento de yemas",
+        "(R5 - R6) Floración",
+        "(R7 - R8) Desarrollo de semillas",
+        "(R9) Madurez y recolección"
+      ],
+      "name": "Girasol",
+      "id": "sunflower",
+      "subCollection": {}
+    },
+    
+    "cucumber": {
+         "growthStages": [
+       "Germinación",
+             "Desarrollo de la planta",
+             "Floración",
+             "Fructificación",
+             "Desarrollo del fruto"
+         ],
+         "name": "Pepino",
+         "id": "cucumber",
+         "subCollection": {}
+       },
+    "tomatoes": {
+         "growthStages": [
+            "Germinación",
+             "Desarrollo de la planta",
+             "Floración",
+             "Fructificación",
+             "Desarrollo del fruto"
+           ],
+         ],
+         "name": "Tomates",
+         "id": "tomatoes",
+         "subCollection": {}
+       },
+    "corn": {
+         "growthStages": [
+           "(VE) Surgimiento",
+           "(V1) Primera hoja",
+           "(V2) Segunda hoja",
+           "(V3) Tercera hoja",
+           "(V4) Cuarta hoja",
+           "(VT) Panojamiento",
+           "(R1) Surgimiento de estigmas",
+           "(R2) Granulación",
+           "(R3) Grano lechoso",
+           "(R4) Grano pastoso",
+           "(R5) Grano dentado",
+           "(R6) Madurez fisiológica"
+         ],
+         "name": "Maíz",
+         "id": "corn",
+         "subCollection": {}
+       },
+    "soybean": {
+            "growthStages": [
+              "(VE) Emergencia de plántula ",
+              "(VC) Cotiledón",
+              "(V1) Primer nudo",
+              "(V2) Segundo nudo",
+              "(V3) Tercer nudo",
+              "(V4) Cuarto nudo",
+              "(R1) Inicio de Floración",
+              "(R2) Floración completa,
+              "(R3) Inicio de formación de vainas",
+              "(R4) Vainas completamente desarrolladas",
+              "(R5) Inicio de formación de semillas",
+              "(R6) Semilla completamente desarrollada",
+              "(R7) Inicio de maduración",
+              "(R8) Maduración completa"
+            ],
+            "name": "Haba de soja",
+            "id": "soybean",
+            "subCollection": {}
+          },
+    "strawberry": {
+            "growthStages": [
+              "Planting seeds/runners",
+              "Vegetative stage",
+              "Flowering",
+              "Fruit set",
+              "Fruit ripening",
+              "First harvest",
+              "Harvesting"
+            ],
+            "name": "Strawberry",
+            "id": "strawberry",
+            "subCollection": {}
+          },
+    "sugar_beet": {
+            "growthStages": [
+              "Germination",
+              "Leaf development (youth stage)",
+              "Rosette growth (crop cover)",
+              "Development of harvestable vegetative plant parts",
+              "Harvesting"
+            ],
+            "name": "Sugar beet",
+            "id": "sugar_beet",
+            "subCollection": {}
+          },
+    "grapevines": {
+               "growthStages": [
+                 "Budburst",
+                 "Flower cluster initiation",
+                 "Flowering",
+                 "Fruit set",
+                 "Berry development",
+                 "Harvest",
+                 "Dormancy"
+               ],
+               "name": "Grapevines",
+               "id": "grapevines",
+               "subCollection": {}
+             },
+    "avocado": {
+               "growthStages": [
+                 "Swollen Bud",
+                 "Col Stage",
+                 "Bud Development",
+                 "Flower Opening",
+                 "Fruit Set",
+                 "Fruit Growth",
+                 "Maturation"
+               ],
+               "name": "Avocado",
+               "id": "avocado",
+               "subCollection": {}
+             },
+    "rice": {
+               "growthStages": [
+                 "(S0 - S4) Seed Germination",
+                 "(V1 - V2) Seedling Emergence",
+                 "(V3 - V7) Pre-Tillering",
+                 "(V8) Tillering",
+                 "(V9) Maximum Tillering",
+                 "(V10 - V13) Vegetative Lag Phase",
+                 "(PI) Panicle Initiation",
+                 "(IE) Internode Elongation",
+                 "(R1) Panicle Differentiation",
+                 "(R2) Booting",
+                 "(R3) Heading",
+                 "(R4 - R5) Anthesis",
+                 "(R6) Milk stage",
+                 "(R6) Soft dough stage",
+                 "(R7 - R8) Hard dough stage",
+                 "(R9) Maturity"
+               ],
+               "name": "Rice",
+               "id": "rice",
+               "subCollection": {}
+             }
+  }
+}
